@@ -4,7 +4,7 @@ This is my home page! My name is Umer Anwar and I am a student at [Cal State Ful
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/UmerAnwar05.
+My GitHub page is [http://github.com/UmerAnwar05](http://github.com/UmerAnwar05).
 
 ### CPSC 120
 
